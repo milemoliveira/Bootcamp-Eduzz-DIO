@@ -52,7 +52,7 @@ A semântica permite descrever mais precisamnte o conteúdo, agora um bloco de t
 
 ## Textos e links
 
-Para textos utilizamos o elemento <p>. O `<p>` representa um parágrafo, mas ele não suporta apenas texto, é possível adicionar imagens, código, vídeos e vários outros tipos de conteúdo dentro dele.
+Para textos utilizamos o elemento `<p>`, ele representa um parágrafo, mas ele não suporta apenas texto, é possível adicionar imagens, código, vídeos e vários outros tipos de conteúdo dentro dele.
 
 Outro elemento interessante é o `<a>`, que significa *anchor*, representa um hyperlink, interliga vários conteúdos e páginas. 
 
